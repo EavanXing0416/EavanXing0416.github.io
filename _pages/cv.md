@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
----
-permalink: /cv/
-title: "Curriculum Vitae"
-author_profile: true
----
+
 
 Education
 ======
@@ -31,7 +27,7 @@ Education
   * Thesis: *Research on the Differences in Emoji Sentiment Perception Between Sender and Receiver*  
   * Supervisor: Dr. Yan Li
 
-Work experience
+<!-- Work experience
 ======
 * **2024–Present: Postdoctoral Research Assistant in Visualization**  
   * University of Oxford, Department of Engineering Science  
@@ -52,9 +48,9 @@ Work experience
   * King’s College London, Department of Informatics  
   * Duties included:  
     * Co-supervising student-led visualization research projects on historical book trade data;  
-    * Guiding students through data analysis, visualization design, and academic writing.
+    * Guiding students through data analysis, visualization design, and academic writing. -->
 
-Skills
+<!-- Skills
 ======
 * **Programming Languages**  
   * Python, R, SQL, JavaScript, HTML, CSS  
@@ -65,7 +61,7 @@ Skills
   * Visual analytics and interactive system design  
   * Qualitative and quantitative user studies  
 * **Languages**  
-  * English, Mandarin
+  * English, Mandarin -->
 
 Publications
 ======
