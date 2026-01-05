@@ -8,7 +8,7 @@ date: 2022-06-20
 venue: 'EuroVis 2022 -- Short Paper'
 paperurl: 'https://EavanXing0416.github.io/files/XingEuroVisShort2022.pdf'
 bibtexurl: 'https://EavanXing0416.github.io/files/XingEuroVisShort2022.bib'
-citation: 'Xing, Yiwen, Cristina Dondi, Rita Borgo, and Alfie Abdul-Rahman. "A Design Study of Visualizing Historical Book Movement." In EuroVis 2022-Short Papers, pp. 97-101. 2022. doi: 10.2312/evs.20221100.'
+citation: '<u>Xing, Yiwen</u>, Cristina Dondi, Rita Borgo, and Alfie Abdul-Rahman. "A Design Study of Visualizing Historical Book Movement." In EuroVis 2022-Short Papers, pp. 97-101. 2022. doi: 10.2312/evs.20221100.'
 header:
   teaser: https://EavanXing0416.github.io/files/XingEuroVisShort2022.png
 ---

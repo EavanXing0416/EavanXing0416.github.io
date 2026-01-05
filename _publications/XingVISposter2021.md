@@ -9,7 +9,7 @@ venue: 'IEEE VIS 2021 -- Poster'
 # slidesurl: 'files/slides1.pdf'
 paperurl: 'https://EavanXing0416.github.io/files/XingVISposter2021.pdf'
 bibtexurl: 'https://EavanXing0416.github.io/files/XingVISposter2021.bib'
-citation: 'Yiwen Xing, Nicholas Cole, Rita Borgo, and Alfie Abdul-Rahman. "Enhancing Understanding of Constitutional Law through Visual Design." In IEEE VIS 2021-Posters.'
+citation: '<u>Yiwen Xing</u>, Nicholas Cole, Rita Borgo, and Alfie Abdul-Rahman. "Enhancing Understanding of Constitutional Law through Visual Design." In IEEE VIS 2021-Posters.'
 header:
   teaser: https://EavanXing0416.github.io/files/XingVISposter2021.png
 
