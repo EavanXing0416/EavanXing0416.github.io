@@ -3,7 +3,7 @@ title: "Enhancing Understanding of Constitutional Law through Visual Design"
 collection: publications
 category: conferences
 permalink: /publication/CantareiraVIS2023
-# excerpt: ''
+excerpt: ''
 date: 2023-10-20
 venue: 'IEEE VIS 2023 -- Poster'
 # slidesurl: 'files/slides1.pdf'

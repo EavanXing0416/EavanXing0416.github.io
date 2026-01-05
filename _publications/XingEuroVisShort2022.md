@@ -3,7 +3,7 @@ title: "A Design Study of Visualizing Historical Book Movement"
 collection: publications
 category: conferences
 permalink: /publication/XingEuroVisShort2022
-# excerpt: ''
+excerpt: ''
 date: 2022-06-20
 venue: 'EuroVis 2022 -- Short Paper'
 paperurl: 'https://EavanXing0416.github.io/files/XingEuroVisShort2022.pdf'

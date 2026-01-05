@@ -3,7 +3,7 @@ title: "Enhancing Understanding of Constitutional Law through Visual Design"
 collection: publications
 category: conferences
 permalink: /publication/XingVISposter2021
-# excerpt: ''
+excerpt: ''
 date: 2021-10-20
 venue: 'IEEE VIS 2021 -- Poster'
 # slidesurl: 'files/slides1.pdf'
