@@ -35,14 +35,13 @@ Education
     * Leading visualization development for the DART (Dengue Advanced Readiness Tools) project;  
     * Designing interactive visualization and visual analytics systems for public health forecasting;  
     * Delivering teaching for the MSc Energy Systems module (Data Visualization Day).  
-  * Supervisor: Prof. Min Chen
+  * Supervisors: Prof. Min Chen and Prof. Sarah Sparrow
 
 * **2021–2024: Teaching Assistant**  
   * King’s College London, Department of Informatics  
   * Duties included:  
     * Supporting MSc-level modules: *Telling Stories with Data*, *Simulation and Data Visualization*, and *Data Mining*;  
     * Providing coding guidance, grading coursework, and facilitating lab sessions.  
-  * Supervisor: Module teaching teams
 
 * **2022–2024: Undergraduate Research Supervisor (co-supervision)**  
   * King’s College London, Department of Informatics  
