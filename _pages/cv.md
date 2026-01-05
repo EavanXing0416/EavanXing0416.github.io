@@ -65,9 +65,17 @@ Education
 
 Publications
 ======
-<ul>
+<!-- <ul>
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
+{% endfor %}
+</ul> -->
+<ul style="list-style: none; padding-left: 0;">
+{% for post in site.publications reversed %}
+  <li>
+    [{{ forloop.index }}]
+    {% include archive-single-cv.html %}
+  </li>
 {% endfor %}
 </ul>
 

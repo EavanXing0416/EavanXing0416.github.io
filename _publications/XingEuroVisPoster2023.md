@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Understanding of Constitutional Law through Visual Design"
+title: "Unveiling the Dispersal of Historical Books from Religious Orders"
 collection: publications
 category: conferences
 permalink: /publication/XingEuroVisPoster2023
